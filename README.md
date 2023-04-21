@@ -1,8 +1,7 @@
+
+
 I am dedicated to completing at least one coding challenge a day so that I can constantly work on my problem solving skills
 
-
-
-How It's Made:
 Tech used: JavaScript
 
 These challenges allow me to seen solutions in different ways and to challenge myself by coding each day. I love how it feels when I get the correct solution but it is also wonderful to learn when I can't solve it.
